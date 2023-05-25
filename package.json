@@ -1,7 +1,9 @@
 {
-  "name": "my-app",
+  "name": "abyss-ts-task",
   "version": "0.1.0",
+  "author": "Vadym Makovii",
   "private": true,
+  "homepage": "https://vadymmakovii.github.io/abyss-ts-task/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
